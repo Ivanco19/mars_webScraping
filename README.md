@@ -4,7 +4,7 @@ In this challenge I had to get data from the Mars news site (https://static.bc-e
 
 For the second part, I also got Mars weather data from the following website https://static.bc-edx.com/data/web/mars_facts/temperature.html using the same libraries in python and this time, using pandas it was possible to store all the information on a dataframe. Once I got the information, an analysis was performed to explore relevant metrics, like temperature in Mars by month or the atmospheric pressure. One nice achieve is the fact we can conclude how many terrestrial (earth) days there are in a Martian year by making some plots. Finally, all data gotten from the website was stored on a CSV file for future reference.
 
-If you want to replicate this analysis, please download the files in this repository and perform the analysis you wish.
+If you want to replicate this analysis, please download the files located in this repository and perform the analysis you are interested in.
 
 -----------------------------------
 This code was developed by Ivan Corona
